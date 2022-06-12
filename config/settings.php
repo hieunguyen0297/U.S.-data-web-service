@@ -31,8 +31,8 @@ return function (DI\Container $container) {
                 'driver' => "mysql",
                 'host' => 'localhost',
                 'database' => 'us_data',
-                'username' => 'phpuser',
-                'password' => 'phpuser',
+                'username' => '**YourDBUserName',
+                'password' => '**YourPassword**',
                 'charset' => 'utf8',
                 'collation' => 'utf8_unicode_ci',
                 'prefix' => ''
